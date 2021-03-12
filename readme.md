@@ -41,6 +41,12 @@ Action: Direction
 3:  Up  
   
   
+Network model for 4x4:
+  
+  <p align="center">
+  <img src="https://github.com/hamedmkazemi/QLearning_FrozenLake_1/blob/main/images/dqn.png" alt="Sublime's custom image"/>
+</p>  
+  
 The final results:  
 4x4  
 <p align="center">
