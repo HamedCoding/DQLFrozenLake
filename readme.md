@@ -50,7 +50,7 @@ Network model for 4x4:
 The final results:  
 4x4  
 <p align="center">
-  <img src="https://github.com/hamedmkazemi/QLearning_FrozenLake_1/blob/main/images/result.JPG" alt="Sublime's custom image"/>
+  <img src="https://github.com/hamedmkazemi/DeepQLearning_FrozenLake_1/blob/main/images/dqn-result1.png" alt="Sublime's custom image"/>
 </p>  
   
 5x5   
