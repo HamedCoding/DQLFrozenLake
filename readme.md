@@ -50,7 +50,7 @@ Network model for 4x4:
   Network model for 5x5:
   
 <p align="center">
-  <img src="https://github.com/hamedmkazemi/DeepQLearning_FrozenLake_1/blob/main/images/dqn1.JPG" alt="Sublime's custom image"/>
+  <img src="https://github.com/hamedmkazemi/DeepQLearning_FrozenLake_1/blob/main/images/dqn2.JPG" alt="Sublime's custom image"/>
 </p>  
   
 The final results:  
