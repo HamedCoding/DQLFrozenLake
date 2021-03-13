@@ -61,5 +61,6 @@ The final results:
   
 5x5   
 <p align="center">
-  <img src="https://github.com/hamedmkazemi/QLearning_FrozenLake_1/blob/main/images/result2.JPG" alt="Sublime's custom image"/>
+  <img src="https://github.com/hamedmkazemi/DeepQLearning_FrozenLake_1/blob/main/images/dqn-result2.PNG
+" alt="Sublime's custom image"/>
 </p>
