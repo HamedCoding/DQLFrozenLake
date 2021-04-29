@@ -1,4 +1,4 @@
-# Deep Q Learning / Frozen Lake / Not Slippery / 5x5
+# Deep Q Learning / Keras / OpenAI / Frozen Lake / Not Slippery / 5x5
 import gym
 import numpy as np
 import random
