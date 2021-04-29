@@ -1,6 +1,7 @@
 # Deep Q Learning Plays 4x4 and 5x5 Frozen Lake (Not Slippery)
 
 In this example, reinforcement learning method (Deep Q Learning) makes its effort to learn 4x4 and 5x5 Frozen Lake.  
+Model created by Keras.  
 The 4x4 and 5x5 game environments are like the following:  
 16 states  
 <p align="center">
